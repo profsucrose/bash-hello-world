@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MESSAGE="Hello World"
+MESSAGE="Hello World!"
 DELAY=0.1
 last_color=-1
 
